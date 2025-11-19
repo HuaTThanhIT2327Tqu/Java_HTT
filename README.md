@@ -11,10 +11,10 @@ Mục tiêu chính của dự án:
 - Lưu trữ và truy xuất dữ liệu nhanh chóng
 - Tạo môi trường thực hành lập trình Java cho sinh viên
 
----
+```
 
 ## Cấu trúc thư mục
-'''
+
 BTL_QLBH_HuaTheThanh
 │
 ├── JRE System Library [JavaSE-21]
@@ -32,20 +32,22 @@ BTL_QLBH_HuaTheThanh
         ├── ProductManagementPanel.java
         ├── QLBH_Main.java
         └── StatisticsPanel.java
-'''
+```
 
 ## Cách chạy ứng dụng
 
-### ✔ Nếu chạy bằng file JAR:
+### Nếu chạy bằng file JAR:
+
 1. Mở terminal/cmd.
-2. Chạy lệnh:
-## ✔ Nếu chạy bằng mã nguồn:
+2. Chạy lệnh: duong_dan_den_file\QLBH_HuaTheThanh_DHCNTTK4.jar
+
+## Nếu chạy bằng mã nguồn:
 - Mở project trong **IntelliJ IDEA / NetBeans / Eclipse**.
 - Build project và chạy file `QLBH_Main.java`.
 
 ---
 
-## 🛠 Công nghệ sử dụng
+## Công nghệ sử dụng
 - **Java SE**
 - **OOP design**
 - (Tuỳ chọn: Swing / JavaFX)
