@@ -36,6 +36,13 @@ BTL_QLBH_HuaTheThanh
 
 ## Cách chạy ứng dụng
 
+## 1️Clone repository về máy
+
+Mở **Terminal / CMD / PowerShell** và chạy:
+
+```sh
+git clone https://github.com/HuaTThanhIT2327Tqu/Java_HTT.git
+```
 ### Nếu chạy bằng file JAR:
 
 1. Mở terminal/cmd.
