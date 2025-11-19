@@ -43,7 +43,7 @@ BTL_QLBH_HuaTheThanh
 
 ## Nếu chạy bằng mã nguồn:
 - Mở project trong **IntelliJ IDEA / NetBeans / Eclipse**.
-- Build project và chạy file `QLBH_Main.java`.
+- Build project và chạy file `MainFrame.java`.
 
 ---
 
